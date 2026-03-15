@@ -1,6 +1,6 @@
 # 🐾 Petera
 
-Petera is a web platform that connects pet owners with caregivers, making reliable pet care easy to find, compare, and book. The focus is on clear information, fast filtering, and straightforward reservations.
+Petera is a web platform that connects pet owners with sitters, making reliable pet care easy to find, compare, and book. The focus is on clear information, fast filtering, and straightforward reservations.
 
 ## Status
 
@@ -10,25 +10,25 @@ Petera is a web platform that connects pet owners with caregivers, making reliab
 
 ## The problem
 
-Pet owners often struggle to find trustworthy caregivers in one place. Information is scattered across recommendations and ads, and comparing offers by price, location, and services is time-consuming. On the other side, caregivers lack a professional space to present their services clearly and consistently attract new clients.
+Pet owners often struggle to find trustworthy sitters in one place. Information is scattered across recommendations and ads, and comparing offers by price, location, and services is time-consuming. On the other side, sitters lack a professional space to present their services clearly and consistently attract new clients.
 
 ## The solution
 
-Petera provides a centralized marketplace for pet care, with structured listings and powerful filters. Owners can quickly review offers, compare services and prices, and book a stay. Caregivers get a clear way to showcase their services and build a stable flow of inquiries.
+Petera provides a centralized marketplace for pet care, with structured listings and powerful filters. Owners can quickly review offers, compare services and prices, and book a stay. Sitters get a clear way to showcase their services and build a stable flow of inquiries.
 
 ## Key features
 
-- Caregiver listings with description, price, location, and accepted pet types
+- Sitter listings with description, price, location, and accepted pet types
 - Filtering by city, price, pet types, and services
-- Detailed listing view with photos and caregiver info
+- Detailed listing view with photos and sitter info
 - Reservations with automatic price calculation
-- Owner and caregiver registration and login
-- Caregiver verification through document upload
+- Owner and sitter registration and login
+- Sitter verification through document upload
 
 ## Roles
 
 - Owner: browses listings and books reservations
-- Caregiver: publishes listings and receives reservations
+- Sitter: publishes listings and receives reservations
 
 ## Screenshots
 
