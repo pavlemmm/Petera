@@ -2,6 +2,14 @@
 
 Petera is a web platform that connects pet owners with sitters, making reliable pet care easy to find, compare, and book. The focus is on clear information, fast filtering, and straightforward reservations.
 
+---
+
+<div align="center">
+  <img src="documentation/logo.png" alt="Petera logo" width="400" />
+</div>
+
+---
+
 ## Status
 
 - Currently available only in Serbia
