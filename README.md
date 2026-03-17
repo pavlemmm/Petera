@@ -42,17 +42,21 @@ Petera provides a centralized marketplace for pet care, with structured listings
 
 ### Phone
 
-![Phone screenshot 1](documentation/screenshots/1_phone.png)
-![Phone screenshot 2](documentation/screenshots/2_phone.png)
-![Phone screenshot 3](documentation/screenshots/3_phone.png)
-![Phone screenshot 4](documentation/screenshots/4_phone.png)
+<div align="center">
+  <img src="documentation/screenshots/1_phone.png" alt="Phone screenshot 1" width="180" />
+  <img src="documentation/screenshots/2_phone.png" alt="Phone screenshot 2" width="180" />
+  <img src="documentation/screenshots/3_phone.png" alt="Phone screenshot 3" width="180" />
+  <img src="documentation/screenshots/4_phone.png" alt="Phone screenshot 4" width="180" />
+</div>
 
 ### Desktop
 
-![Desktop screenshot 1](documentation/screenshots/1_desktop.png)
-![Desktop screenshot 2](documentation/screenshots/2_desktop.png)
-![Desktop screenshot 3](documentation/screenshots/3_desktop.png)
-![Desktop screenshot 6](documentation/screenshots/4_desktop.png)
+<div align="center">
+  <img src="documentation/screenshots/1_desktop.png" alt="Desktop screenshot 1" width="520" />
+  <img src="documentation/screenshots/2_desktop.png" alt="Desktop screenshot 2" width="520" />
+  <img src="documentation/screenshots/3_desktop.png" alt="Desktop screenshot 3" width="520" />
+  <img src="documentation/screenshots/4_desktop.png" alt="Desktop screenshot 4" width="520" />
+</div>
 
 ## Tech stack
 
